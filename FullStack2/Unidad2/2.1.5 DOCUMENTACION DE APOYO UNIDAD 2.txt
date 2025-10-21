@@ -1,0 +1,12 @@
+DOCUMENTACION DE APOYO UNIDAD2
+
+En las horas de trabajo autónomo deberás realizar las siguientes actividades:
+
+Interactúa con el siguiente ChatBot 🤖 WebDevs y analiza si sus respuestas son correctas o son alucinaciones de la IA. Nuevo chat - Poe. (s/f). Poe.com. Recuperado el 6 de agosto de 2024, de https://poe.com/WebDevs
+
+
+📡 React Tutorial. (s/f). W3schools.com. Recuperado el 6 de agosto de 2024, de https://www.w3schools.com/react/
+
+📡 Bootcamp de React. (s/f). CódigoFacilito. Recuperado el 6 de agosto de 2024, de https://codigofacilito.com/programas/react-g3
+
+  
