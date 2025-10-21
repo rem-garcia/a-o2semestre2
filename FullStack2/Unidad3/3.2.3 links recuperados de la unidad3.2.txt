@@ -1,0 +1,11 @@
+En las horas de trabajo autónomo deberás realizar las siguientes actividades:
+
+Interactúa con el siguiente ChatBot 🤖 FullStack-Dev-XL y analiza si sus respuestas son correctas o son alucinaciones de la IA. Nuevo chat - Poe. (s/f). Poe.com. Recuperado el 11 de agosto de 2024, de https://poe.com/FullStack-Dev-XL
+
+📡 Deployment. (s/f). Create-react-app.dev. Recuperado el 11 de agosto de 2024, de https://create-react-app.dev/docs/deployment/
+
+📡 Spring Boot. (s/f). Spring.io. Recuperado el 11 de agosto de 2024, de https://docs.spring.io/spring-boot/index.html
+
+📡 Getting Started. (s/f). Getting Started | Enabling Cross Origin Requests for a RESTful Web Service. Recuperado el 11 de agosto de 2024, de https://spring.io/guides/gs/rest-service-cors
+
+📡 Welcome to Netlify. (s/f). Netlify.com. Recuperado el 11 de agosto de 2024, de https://docs.netlify.com/
