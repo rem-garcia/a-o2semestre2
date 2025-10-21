@@ -1,0 +1,18 @@
+DOCUMENTACION DE APOYO ADICIONAL RECOPILADO
+
+
+En las horas de trabajo autónomo deberás realizar las siguientes actividades:
+
+Ejercita la programación HTML usando el siguiente Tutorial
+📑 HTML Tutorial. (s/f). W3schools.com. Recuperado el 2 de agosto de 2024, de https://www.w3schools.com/html/default.asp
+
+
+📚 Bruce Lawson / Remy Sharp Lawson / Sharp. (2011). Introducing HTML5 (Voices That Matter) (2a ed.). New Riders. Acceso al link Biblioteca. https://bibliotecabuscador.duoc.cl/client/es_CL/default/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:28004/one
+
+📚 Musciano, C., & Kennedy, B. (2000). HTML - la Guia completa 2b0 edicion. McGraw-Hill Companies. Acceso al link Biblioteca. https://bibliotecabuscador.duoc.cl/client/es_CL/default/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:8794/one
+
+📚 Cobo, Á. (2007). Manual avanzado de HTML. Editorial Visión Libros. Acceso al link Biblioteca. https://bibliotecabuscador.duoc.cl/client/es_CL/default/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:37709/one
+
+📡 Curso de Introducción a HTML5 Gratis. (s/f). CódigoFacilito. Recuperado el 2 de agosto de 2024, de https://codigofacilito.com/cursos/HTML5
+
+  
